@@ -6,3 +6,9 @@ body {
 a {
   color: #00B7FF;
 }
+
+.pizza-img {
+  width: 300px;
+  height: auto; /* mantém a proporção */
+  border-radius: 8px;
+}
